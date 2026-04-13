@@ -8,4 +8,4 @@ DSGVO-konform · EU AI Act ready · Self-Hosted in Oesterreich
 → [hub.ai-engineering.at](https://hub.ai-engineering.at) — 900+ Skills & MCP Server
 → [ai-engineering.at](https://www.ai-engineering.at) — Produkte & Schulungen
 
-Organisation: [@AI-Engineerings-at](https://github.com/AI-Engineerings-at)
+Organisation: [@AI-Engineerings-at](https://github.com/AI-Engineering-at)
